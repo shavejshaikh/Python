@@ -1,6 +1,6 @@
 # Python
 ## Shopping Cart
-> Python script to generate a product shopping similar to amazon & flipkart.
+> Python script to generate a product similar to amazon & flipkart.
 ##
 > ![plot](./shoppingImage/shopping_1.png)
 ##
