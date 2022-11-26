@@ -1,6 +1,6 @@
 e = input("\nEnter Key:")
 e = [int(i) for i in e]
-#---------------sender side-----------------
+
 sdata = input("\nMessage String: ")
 d=sdata+("0"*(len(e)-1));c=0
 
